@@ -7,7 +7,7 @@ HeyDJ is an AI-powered music companion that allows users to create personalized 
 ## Demo
 
 Here is a demo of the app on Streamlit Cloud platform:
-### [HeyDJ](hey-dj.streamlit.app)
+### [HeyDJ](https://hey-dj.streamlit.app)
 
 ## Features
 
